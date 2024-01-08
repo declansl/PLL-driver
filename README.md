@@ -5,7 +5,7 @@ A couple years old as of uploading documentation. First attempts at phase-locked
 .zip has issues (escheema file not loading). Images instead uploaded.
 
 PCB layout:
-[PLLDriverPCBIMG.pdf](https://github.com/declansl/PLL-driver/files/13859346/PLLDriverPCBIMG.pdf)
+[PLLpcbimg.pdf](https://github.com/declansl/PLL-driver/files/13859417/PLLpcbimg.pdf)
 
-Unfortunately the schematic is broken as I've switched around versions.
-[PLLDriverSchema.MissingInfo.pdf](https://github.com/declansl/PLL-driver/files/13859358/PLLDriverSchema.MissingInfo.pdf)
+Unfortunately some schematic symbols have broken over time:
+[PLLdriverschematic.pdf](https://github.com/declansl/PLL-driver/files/13859418/PLLdriverschematic.pdf)
